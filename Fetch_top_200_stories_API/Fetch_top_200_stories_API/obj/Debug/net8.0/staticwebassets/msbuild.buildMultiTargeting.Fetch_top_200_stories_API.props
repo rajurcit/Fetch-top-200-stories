@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Fetch_top_200_stories_API.props" />
+</Project>

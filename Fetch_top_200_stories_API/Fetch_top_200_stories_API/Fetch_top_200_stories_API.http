@@ -1,0 +1,6 @@
+@Fetch_top_200_stories_API_HostAddress = http://localhost:5048
+
+GET {{Fetch_top_200_stories_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
