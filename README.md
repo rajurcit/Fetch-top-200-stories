@@ -8,4 +8,6 @@
 
 ## Execption implemented
 
-## Loging implemented
+## Logging implemented
+
+## Implemented Dependency Injection
