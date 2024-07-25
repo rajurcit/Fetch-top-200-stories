@@ -1,0 +1,12 @@
+C:\D Drive\temp\Fetch-top-200-stories\Fetch_top_200_stories_API\StoryService\bin\Debug\net8.0\StoryService.deps.json
+C:\D Drive\temp\Fetch-top-200-stories\Fetch_top_200_stories_API\StoryService\bin\Debug\net8.0\StoryService.dll
+C:\D Drive\temp\Fetch-top-200-stories\Fetch_top_200_stories_API\StoryService\bin\Debug\net8.0\StoryService.pdb
+C:\D Drive\temp\Fetch-top-200-stories\Fetch_top_200_stories_API\StoryService\obj\Debug\net8.0\StoryService.GeneratedMSBuildEditorConfig.editorconfig
+C:\D Drive\temp\Fetch-top-200-stories\Fetch_top_200_stories_API\StoryService\obj\Debug\net8.0\StoryService.AssemblyInfoInputs.cache
+C:\D Drive\temp\Fetch-top-200-stories\Fetch_top_200_stories_API\StoryService\obj\Debug\net8.0\StoryService.AssemblyInfo.cs
+C:\D Drive\temp\Fetch-top-200-stories\Fetch_top_200_stories_API\StoryService\obj\Debug\net8.0\StoryService.csproj.CoreCompileInputs.cache
+C:\D Drive\temp\Fetch-top-200-stories\Fetch_top_200_stories_API\StoryService\obj\Debug\net8.0\StoryService.sourcelink.json
+C:\D Drive\temp\Fetch-top-200-stories\Fetch_top_200_stories_API\StoryService\obj\Debug\net8.0\StoryService.dll
+C:\D Drive\temp\Fetch-top-200-stories\Fetch_top_200_stories_API\StoryService\obj\Debug\net8.0\refint\StoryService.dll
+C:\D Drive\temp\Fetch-top-200-stories\Fetch_top_200_stories_API\StoryService\obj\Debug\net8.0\StoryService.pdb
+C:\D Drive\temp\Fetch-top-200-stories\Fetch_top_200_stories_API\StoryService\obj\Debug\net8.0\ref\StoryService.dll

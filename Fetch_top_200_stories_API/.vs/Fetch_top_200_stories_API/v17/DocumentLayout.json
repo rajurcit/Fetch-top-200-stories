@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\D Drive\\temp\\Fetch-top-200-stories\\Fetch_top_200_stories_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0163276A-D91B-4054-8BC5-01B0C3FAFDCA}|Fetch_top_200_stories_API\\Fetch_top_200_stories_API.csproj|c:\\d drive\\temp\\fetch-top-200-stories\\fetch_top_200_stories_api\\fetch_top_200_stories_api\\controllers\\storycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0163276A-D91B-4054-8BC5-01B0C3FAFDCA}|Fetch_top_200_stories_API\\Fetch_top_200_stories_API.csproj|solutionrelative:fetch_top_200_stories_api\\controllers\\storycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD75EB9-1DC8-4E78-A96E-783DA5A948D0}|StoryService\\StoryService.csproj|c:\\d drive\\temp\\fetch-top-200-stories\\fetch_top_200_stories_api\\storyservice\\storyservicedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD75EB9-1DC8-4E78-A96E-783DA5A948D0}|StoryService\\StoryService.csproj|solutionrelative:storyservice\\storyservicedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD75EB9-1DC8-4E78-A96E-783DA5A948D0}|StoryService\\StoryService.csproj|c:\\d drive\\temp\\fetch-top-200-stories\\fetch_top_200_stories_api\\storyservice\\istoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD75EB9-1DC8-4E78-A96E-783DA5A948D0}|StoryService\\StoryService.csproj|solutionrelative:storyservice\\istoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0163276A-D91B-4054-8BC5-01B0C3FAFDCA}|Fetch_top_200_stories_API\\Fetch_top_200_stories_API.csproj|c:\\d drive\\temp\\fetch-top-200-stories\\fetch_top_200_stories_api\\fetch_top_200_stories_api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0163276A-D91B-4054-8BC5-01B0C3FAFDCA}|Fetch_top_200_stories_API\\Fetch_top_200_stories_API.csproj|solutionrelative:fetch_top_200_stories_api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0163276A-D91B-4054-8BC5-01B0C3FAFDCA}|Fetch_top_200_stories_API\\Fetch_top_200_stories_API.csproj|c:\\d drive\\temp\\fetch-top-200-stories\\fetch_top_200_stories_api\\fetch_top_200_stories_api\\utilities\\exceptionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0163276A-D91B-4054-8BC5-01B0C3FAFDCA}|Fetch_top_200_stories_API\\Fetch_top_200_stories_API.csproj|solutionrelative:fetch_top_200_stories_api\\utilities\\exceptionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0163276A-D91B-4054-8BC5-01B0C3FAFDCA}|Fetch_top_200_stories_API\\Fetch_top_200_stories_API.csproj|c:\\d drive\\temp\\fetch-top-200-stories\\fetch_top_200_stories_api\\fetch_top_200_stories_api\\services\\storyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0163276A-D91B-4054-8BC5-01B0C3FAFDCA}|Fetch_top_200_stories_API\\Fetch_top_200_stories_API.csproj|solutionrelative:fetch_top_200_stories_api\\services\\storyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0163276A-D91B-4054-8BC5-01B0C3FAFDCA}|Fetch_top_200_stories_API\\Fetch_top_200_stories_API.csproj|c:\\d drive\\temp\\fetch-top-200-stories\\fetch_top_200_stories_api\\fetch_top_200_stories_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0163276A-D91B-4054-8BC5-01B0C3FAFDCA}|Fetch_top_200_stories_API\\Fetch_top_200_stories_API.csproj|solutionrelative:fetch_top_200_stories_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0163276A-D91B-4054-8BC5-01B0C3FAFDCA}|Fetch_top_200_stories_API\\Fetch_top_200_stories_API.csproj|c:\\d drive\\temp\\fetch-top-200-stories\\fetch_top_200_stories_api\\fetch_top_200_stories_api\\repositories\\storyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0163276A-D91B-4054-8BC5-01B0C3FAFDCA}|Fetch_top_200_stories_API\\Fetch_top_200_stories_API.csproj|solutionrelative:fetch_top_200_stories_api\\repositories\\storyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0163276A-D91B-4054-8BC5-01B0C3FAFDCA}|Fetch_top_200_stories_API\\Fetch_top_200_stories_API.csproj|c:\\d drive\\temp\\fetch-top-200-stories\\fetch_top_200_stories_api\\fetch_top_200_stories_api\\utilities\\interfaces\\iseriloglogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0163276A-D91B-4054-8BC5-01B0C3FAFDCA}|Fetch_top_200_stories_API\\Fetch_top_200_stories_API.csproj|solutionrelative:fetch_top_200_stories_api\\utilities\\interfaces\\iseriloglogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0163276A-D91B-4054-8BC5-01B0C3FAFDCA}|Fetch_top_200_stories_API\\Fetch_top_200_stories_API.csproj|c:\\d drive\\temp\\fetch-top-200-stories\\fetch_top_200_stories_api\\fetch_top_200_stories_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0163276A-D91B-4054-8BC5-01B0C3FAFDCA}|Fetch_top_200_stories_API\\Fetch_top_200_stories_API.csproj|solutionrelative:fetch_top_200_stories_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0163276A-D91B-4054-8BC5-01B0C3FAFDCA}|Fetch_top_200_stories_API\\Fetch_top_200_stories_API.csproj|c:\\d drive\\temp\\fetch-top-200-stories\\fetch_top_200_stories_api\\fetch_top_200_stories_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0163276A-D91B-4054-8BC5-01B0C3FAFDCA}|Fetch_top_200_stories_API\\Fetch_top_200_stories_API.csproj|solutionrelative:fetch_top_200_stories_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStoryService.cs",
+              "DocumentMoniker": "C:\\D Drive\\temp\\Fetch-top-200-stories\\Fetch_top_200_stories_API\\StoryService\\IStoryService.cs",
+              "RelativeDocumentMoniker": "StoryService\\IStoryService.cs",
+              "ToolTip": "C:\\D Drive\\temp\\Fetch-top-200-stories\\Fetch_top_200_stories_API\\StoryService\\IStoryService.cs",
+              "RelativeToolTip": "StoryService\\IStoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T13:42:40.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\D Drive\\temp\\Fetch-top-200-stories\\Fetch_top_200_stories_API\\Fetch_top_200_stories_API\\Startup.cs",
+              "RelativeDocumentMoniker": "Fetch_top_200_stories_API\\Startup.cs",
+              "ToolTip": "C:\\D Drive\\temp\\Fetch-top-200-stories\\Fetch_top_200_stories_API\\Fetch_top_200_stories_API\\Startup.cs",
+              "RelativeToolTip": "Fetch_top_200_stories_API\\Startup.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAWwAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T13:39:18.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoryServiceData.cs",
+              "DocumentMoniker": "C:\\D Drive\\temp\\Fetch-top-200-stories\\Fetch_top_200_stories_API\\StoryService\\StoryServiceData.cs",
+              "RelativeDocumentMoniker": "StoryService\\StoryServiceData.cs",
+              "ToolTip": "C:\\D Drive\\temp\\Fetch-top-200-stories\\Fetch_top_200_stories_API\\StoryService\\StoryServiceData.cs",
+              "RelativeToolTip": "StoryService\\StoryServiceData.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T13:30:39.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StoryService.cs",
+              "DocumentMoniker": "C:\\D Drive\\temp\\Fetch-top-200-stories\\Fetch_top_200_stories_API\\Fetch_top_200_stories_API\\Services\\StoryService.cs",
+              "RelativeDocumentMoniker": "Fetch_top_200_stories_API\\Services\\StoryService.cs",
+              "ToolTip": "C:\\D Drive\\temp\\Fetch-top-200-stories\\Fetch_top_200_stories_API\\Fetch_top_200_stories_API\\Services\\StoryService.cs",
+              "RelativeToolTip": "Fetch_top_200_stories_API\\Services\\StoryService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwBoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T13:30:35.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoryController.cs",
+              "DocumentMoniker": "C:\\D Drive\\temp\\Fetch-top-200-stories\\Fetch_top_200_stories_API\\Fetch_top_200_stories_API\\Controllers\\StoryController.cs",
+              "RelativeDocumentMoniker": "Fetch_top_200_stories_API\\Controllers\\StoryController.cs",
+              "ToolTip": "C:\\D Drive\\temp\\Fetch-top-200-stories\\Fetch_top_200_stories_API\\Fetch_top_200_stories_API\\Controllers\\StoryController.cs",
+              "RelativeToolTip": "Fetch_top_200_stories_API\\Controllers\\StoryController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T08:02:04.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\D Drive\\temp\\Fetch-top-200-stories\\Fetch_top_200_stories_API\\Fetch_top_200_stories_API\\Program.cs",
+              "RelativeDocumentMoniker": "Fetch_top_200_stories_API\\Program.cs",
+              "ToolTip": "C:\\D Drive\\temp\\Fetch-top-200-stories\\Fetch_top_200_stories_API\\Fetch_top_200_stories_API\\Program.cs",
+              "RelativeToolTip": "Fetch_top_200_stories_API\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T10:38:16.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISerilogLogger.cs",
+              "DocumentMoniker": "C:\\D Drive\\temp\\Fetch-top-200-stories\\Fetch_top_200_stories_API\\Fetch_top_200_stories_API\\Utilities\\Interfaces\\ISerilogLogger.cs",
+              "RelativeDocumentMoniker": "Fetch_top_200_stories_API\\Utilities\\Interfaces\\ISerilogLogger.cs",
+              "ToolTip": "C:\\D Drive\\temp\\Fetch-top-200-stories\\Fetch_top_200_stories_API\\Fetch_top_200_stories_API\\Utilities\\Interfaces\\ISerilogLogger.cs",
+              "RelativeToolTip": "Fetch_top_200_stories_API\\Utilities\\Interfaces\\ISerilogLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:34:29.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExceptionLogger.cs",
+              "DocumentMoniker": "C:\\D Drive\\temp\\Fetch-top-200-stories\\Fetch_top_200_stories_API\\Fetch_top_200_stories_API\\Utilities\\ExceptionLogger.cs",
+              "RelativeDocumentMoniker": "Fetch_top_200_stories_API\\Utilities\\ExceptionLogger.cs",
+              "ToolTip": "C:\\D Drive\\temp\\Fetch-top-200-stories\\Fetch_top_200_stories_API\\Fetch_top_200_stories_API\\Utilities\\ExceptionLogger.cs",
+              "RelativeToolTip": "Fetch_top_200_stories_API\\Utilities\\ExceptionLogger.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:35:36.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StoryRepository.cs",
+              "DocumentMoniker": "C:\\D Drive\\temp\\Fetch-top-200-stories\\Fetch_top_200_stories_API\\Fetch_top_200_stories_API\\Repositories\\StoryRepository.cs",
+              "RelativeDocumentMoniker": "Fetch_top_200_stories_API\\Repositories\\StoryRepository.cs",
+              "ToolTip": "C:\\D Drive\\temp\\Fetch-top-200-stories\\Fetch_top_200_stories_API\\Fetch_top_200_stories_API\\Repositories\\StoryRepository.cs",
+              "RelativeToolTip": "Fetch_top_200_stories_API\\Repositories\\StoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T09:41:58.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\D Drive\\temp\\Fetch-top-200-stories\\Fetch_top_200_stories_API\\Fetch_top_200_stories_API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Fetch_top_200_stories_API\\appsettings.Development.json",
+              "ToolTip": "C:\\D Drive\\temp\\Fetch-top-200-stories\\Fetch_top_200_stories_API\\Fetch_top_200_stories_API\\appsettings.Development.json",
+              "RelativeToolTip": "Fetch_top_200_stories_API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-19T12:19:18.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\D Drive\\temp\\Fetch-top-200-stories\\Fetch_top_200_stories_API\\Fetch_top_200_stories_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Fetch_top_200_stories_API\\appsettings.json",
+              "ToolTip": "C:\\D Drive\\temp\\Fetch-top-200-stories\\Fetch_top_200_stories_API\\Fetch_top_200_stories_API\\appsettings.json",
+              "RelativeToolTip": "Fetch_top_200_stories_API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-19T12:19:46.72Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
