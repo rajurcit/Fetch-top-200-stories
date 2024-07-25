@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Fetch_top_200_stories_API.props" />
-</Project>
